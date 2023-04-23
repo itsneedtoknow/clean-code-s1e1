@@ -31,13 +31,13 @@ input{
 .task-name {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 .input-form {
     display: flex;
 }
 .tasks-list {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 .input-form__button {
@@ -103,7 +103,7 @@ input{
     width: 226px;
 }
 .input-form__text {
-    width: 226px
+    width: 226px;
 }
 .delete-button__img {
     height: 2em;
@@ -122,12 +122,12 @@ input{
 
 /* Edit Task */
 .input-form .task-edit {
-    display: none
+    display: none;
 }
 
 .input-form_editMode .task-edit {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 
 .input-form_editMode .task-name {
