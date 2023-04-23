@@ -1,9 +1,9 @@
 /* Basic Style */
 li {
-    list-style:none;
+    list-style: none;
 }
 input{
-    outline:none;
+    outline: none;
 }
 .body {
     background-color: #f8f8f8;
@@ -122,16 +122,16 @@ input{
 
 /* Edit Task */
 .input-form .task-edit {
-    display:none
+    display: none
 }
 
 .input-form_editMode .task-edit {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 
 .input-form_editMode .task-name {
-    display:none;
+    display: none;
 }
 @media (max-width:768px) {
 
